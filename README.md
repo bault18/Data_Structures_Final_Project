@@ -4,9 +4,13 @@ This project was the final for my Data Structures course in the fall of 2015.
 We were to make a hospital simulator that ran through a week in a hospital.
 
 The goals of the project were:
+
 -Allow the user to enter in the number of doctors, nurses, and patient arrival rate (patients/hour)
+
 -Simulate the hospital during the course of a week
+
 -Calculate the average wait time of patients
+
 -Keep data of all patients once the simulation ended
 
 
